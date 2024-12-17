@@ -24,3 +24,7 @@ responsive-skincare-website/
 ├── styles.css      # Stylesheet for design and layout
 └── main.js         # JavaScript file for interactivity and animations
 
+## Live Demo
+
+Check out the live website here:
+https://adrianav1999.github.io/responsive-skincare-site/
