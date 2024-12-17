@@ -5,7 +5,7 @@ This is a responsive website for a SkinCare company, built using **HTML**, **CSS
 
 ## Project Description  
 
-The website features a **responsive design** suitable for all devices, including desktops, tablets, and mobile phones. It uses **ScrollReveal** to animate page elements as users scroll, providing a dynamic user experience.  
+The website features a **responsive design** suitable for all devices, including desktops, tablets and mobile phones. It uses **ScrollReveal** to animate page elements as users scroll, providing a dynamic user experience.  
 
 The goal of this project is to demonstrate clean design and functional interactivity, creating a professional showcase for a fictional SkinCare company.
 
