@@ -1,5 +1,5 @@
 # SkinCare Company Website
-This is a responsive website for a SkinCare company, built using **HTML**, **CSS**, and **JavaScript**. The project features animations powered by the **ScrollReveal** JavaScript library to create scroll-based effects.
+This is a responsive website for a SkinCare company, built using **HTML**, **CSS** and **JavaScript**. The project features animations powered by the **ScrollReveal** JavaScript library to create scroll-based effects.
 
 ![preview](https://github.com/user-attachments/assets/4498316f-aa07-4754-a6b6-eee4f1097322)
 
