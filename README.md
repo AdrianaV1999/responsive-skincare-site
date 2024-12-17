@@ -23,7 +23,8 @@ responsive-skincare-website/
 ├── index.html      # Main HTML file
 ├── styles.css      # Stylesheet for design and layout
 └── main.js         # JavaScript file for interactivity and animations
-
+```
+--
 ## Live Demo
 
 Check out the live website here:
